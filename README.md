@@ -2,4 +2,7 @@ In this visualization, I explore the crisp map by mapping the Colombian populati
 
 Here is the result. It is striking how the Colombian population is concentrated in some areas (mainly big cities in the mountains, some coastal cities and northern part of the country) compared tothe same map of population distribution in Germany for instance. 
 
-![alt text](https://github.com/AnabelleCouleau/datavizfun/blob/main/colombia_population_2023.png)
+Colombian Population map           |  German Population map  
+:-------------------------:|:-------------------------:
+![Colombian Populatiom map 2023](https://github.com/AnabelleCouleau/datavizfun/blob/main/colombia_population_2023.png) |  ![German Population Map 2022]((https://github.com/AnabelleCouleau/datavizfun/blob/main/germany_population_2022.png))
+
