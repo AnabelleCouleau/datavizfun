@@ -4,3 +4,6 @@ Here is the result. It is striking how the Colombian population is concentrated 
 
 ![Colombian Populatiom map 2023](https://github.com/AnabelleCouleau/datavizfun/blob/main/colombia_population_2023.png) 
 
+In this second data viz, I explore how to make a esthetic map of Medellín, the city I live in now since 5 years! The city is constructed in a valley (Aburrá Valley) where the *Rio Medellin* cross it at the bottom and you barely see a flat road (!).
+
+![Medellin Poster Map](https://github.com/AnabelleCouleau/datavizfun/blob/main/medellin.png)
