@@ -4,5 +4,5 @@ Here is the result. It is striking how the Colombian population is concentrated 
 
 Colombian Population map           |  German Population map  
 :-------------------------:|:-------------------------:
-![Colombian Populatiom map 2023](https://github.com/AnabelleCouleau/datavizfun/blob/main/colombia_population_2023.png) |  ![German Population Map 2022]((https://github.com/AnabelleCouleau/datavizfun/blob/main/germany_population_2022.png))
+![Colombian Populatiom map 2023](https://github.com/AnabelleCouleau/datavizfun/blob/main/colombia_population_2023.png){width=200} |  ![German Population Map 2022]((https://github.com/AnabelleCouleau/datavizfun/blob/main/germany_population_2022.png))
 
